@@ -1,3 +1,3 @@
 #Note
 
-Place Put the pdb file in this directory 
+Please Put the pdb file in this directory 
